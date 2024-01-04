@@ -5,11 +5,11 @@
   <artifactId>consumerBanking</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>consumerBanking</name>
-  <url>http://maven.apache.org</url>
-  <groupId>org.apache.maven.plugins</groupId>
+   <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-war-plugin</artifactId>
     <version>3.3.2</version>
+  <name>consumerBanking</name>
+  <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
