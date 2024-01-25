@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "SCM Triggers Commit Change  " );
+        System.out.println( "SCM Triggers Commit Changes for jenkins  " );
     }
 }
